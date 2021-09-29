@@ -1,2 +1,3 @@
-print("Hello, world")
+import file
 
+file.fileopen('file.txt', 'r')
