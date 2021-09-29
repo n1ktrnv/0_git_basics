@@ -1,7 +1,3 @@
-"""
-Редактор Spyder
-
-Это временный скриптовый файл.
-"""
-
-print("Hello")
+def openfile():
+    with open('file.txt') as f:
+        print(f.read())
