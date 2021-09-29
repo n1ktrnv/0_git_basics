@@ -1,3 +1,3 @@
-def openfile(filename):
-    with open('filename') as f:
+def openfile(filename, mode):
+    with open('filename', mode) as f:
         print(f.read())
