@@ -1,3 +1,1 @@
-# Comment
-mkdir dir
-cd dir
+touch log.txt
