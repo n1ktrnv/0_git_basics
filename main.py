@@ -1,2 +1,3 @@
-print("Hello, world")
+import file
 
+file.fileopen('log.txt', 'r')
